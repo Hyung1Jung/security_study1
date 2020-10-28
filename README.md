@@ -11,7 +11,7 @@ from기반 login
 
 ![가입성공](https://user-images.githubusercontent.com/43127088/97404763-f047ce00-1939-11eb-9fe5-8198f3a4f88b.PNG)
 
-뷰에 관리자 페이지 노출
+뷰에 관리자 페이지 노출 -> "hyungil"만 Role에 넣어주고 antMatchers로 페이지 권한 설정을 부여해주었다.
 
 ![관리자](https://user-images.githubusercontent.com/43127088/97404880-21280300-193a-11eb-9c94-901c95c6a87c.PNG)
 
